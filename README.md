@@ -7,4 +7,6 @@ velocidade e com base nessa velocidade diga se ele tomou um multa leve, grave ou
 velocidade máxima seu programa deve exibir "não houve multa", caso esteja até 10km acima, deve exibir: "levou multa leve", caso esteja entre 11 a 20km 
 acima da velocidade máxima, exibir: "levou multa grave", e caso esteja acima de 20km acima da velocidade máxima, exiba: "levou multa gravíssima".
 
+Caso queira testar, copie e execute no seu IDE.
+
 
