@@ -10,7 +10,6 @@ acima da velocidade máxima, exibir: "levou multa grave", e caso esteja acima de
 Analise criticamente o problema e descubra:
 (Tente explicar este problema para você mesmo em voz alta e peça mais informações/investigue mais até você compreender completamente o problema.)
 
-
 input velocidade
 
 velocidade_maxima = 80
