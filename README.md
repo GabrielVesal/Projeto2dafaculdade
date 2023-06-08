@@ -1,4 +1,4 @@
-# Projetosdafaculdade
+# Projeto da faculdade
 
 Projeto - Medidor de Velocidade
 
